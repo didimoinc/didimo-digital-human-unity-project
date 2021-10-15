@@ -1,0 +1,3 @@
+[submodule "Assets/DidimoSdk"]
+	path = Assets/DidimoSdk
+	url = git@github.com:didimoinc/didimo-digital-human-unity-sdk.git
