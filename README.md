@@ -17,4 +17,4 @@ git submodule update --init
 ```
 
 
-For further information while using the SDK, please see the [SDKs README](./Assets/Didimo/README.md]).
+For further information while using the SDK, please see the [SDKs README](https://github.com/didimoinc/didimo-digital-human-unity-sdk]).
