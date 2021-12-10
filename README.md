@@ -16,5 +16,7 @@ If you don't see content in the `Assets/Didimo` folder, then try:
 git submodule update --init
 ```
 
+If you don't see didimo rendering, then go to:
+Unity Editor Menu → Didimo → Didimo Manager, and click the Reimport didimos button.
 
-For further information while using the SDK, please see the [SDKs README](https://github.com/didimoinc/didimo-digital-human-unity-sdk]).
+For further information while using the SDK, please see the [SDKs README](https://github.com/didimoinc/didimo-digital-human-unity-sdk).
