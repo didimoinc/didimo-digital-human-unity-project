@@ -1,11 +1,8 @@
 # Didimo Digital Human - Unity Project
 
-This is a ready to play Unity project that uses the included [Didimo SDK](https://github.com/didimoinc/didimo-digital-human-unity-sdk) directly commited to this repository.
+This is a ready to play Unity project that uses an included copy of the [Didimo SDK](https://github.com/didimoinc/didimo-digital-human-unity-sdk).
 
 This allows you to quickly checkout our SDK, without having to manually create and preconfigured project as per the [SDKs README](https://github.com/didimoinc/didimo-digital-human-unity-sdk).
-
-If you have an existing Unity project then its recommended import the SDK from stratch using the above SDK repo and its README.
-
 
 1. Open the Unity project as you normally would.
    *Its recommended to use Unity Hub and ensure the project is opened with the projects Unity version, or higher.*
