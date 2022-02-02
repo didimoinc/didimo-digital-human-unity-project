@@ -146,6 +146,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
+    Android: com.Didimo.DidimoSDKExampleProject
     Standalone: com.Didimo.DidimoSDKExampleProject
   buildNumber:
     Standalone: 0
@@ -583,7 +584,7 @@ PlayerSettings:
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
   scriptingDefineSymbols:
-    7: USING_OCULUS_INTEGRATION_PACKAGE
+    7: 
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
