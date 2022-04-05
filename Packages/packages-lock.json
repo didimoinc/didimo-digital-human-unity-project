@@ -1,63 +1,41 @@
 {
   "dependencies": {
     "com.didimo.sdk.core": {
-      "version": "https://github.com/didimoinc/didimo-digital-human-unity-sdk.git?path=/com.didimo.sdk.core#4.0.0",
+      "version": "https://github.com/didimoinc/didimo-digital-human-unity-sdk.git?path=/com.didimo.sdk.core#4.0.1",
       "depth": 0,
       "source": "git",
       "dependencies": {
         "com.unity.nuget.newtonsoft-json": "2.0.2",
         "com.unity.render-pipelines.universal": "10.5.0",
         "com.unity.textmeshpro": "3.0.6",
-        "com.unity.editorcoroutines": "1.0.0"
+        "com.unity.editorcoroutines": "1.0.0",
+        "com.unity.cinemachine": "2.6.11"
       },
-      "hash": "aa5938174051785b4b965f7d82bc88d42a6343bf"
+      "hash": "680c3131c364ff3bed6e9ca59df7fccb7224f83a"
     },
     "com.didimo.sdk.mobile": {
-      "version": "https://github.com/didimoinc/didimo-digital-human-unity-sdk.git?path=/com.didimo.sdk.mobile#4.0.0",
+      "version": "https://github.com/didimoinc/didimo-digital-human-unity-sdk.git?path=/com.didimo.sdk.mobile#4.0.1",
       "depth": 0,
       "source": "git",
       "dependencies": {
-        "com.didimo.sdk.core": "4.0.0"
+        "com.didimo.sdk.core": "4.0.1"
       },
-      "hash": "aa5938174051785b4b965f7d82bc88d42a6343bf"
+      "hash": "680c3131c364ff3bed6e9ca59df7fccb7224f83a"
     },
     "com.didimo.sdk.networking": {
-      "version": "https://github.com/didimoinc/didimo-digital-human-unity-sdk.git?path=/com.didimo.sdk.networking#4.0.0",
+      "version": "https://github.com/didimoinc/didimo-digital-human-unity-sdk.git?path=/com.didimo.sdk.networking#4.0.1",
       "depth": 0,
       "source": "git",
       "dependencies": {
-        "com.didimo.sdk.core": "4.0.0"
+        "com.didimo.sdk.core": "4.0.1"
       },
-      "hash": "aa5938174051785b4b965f7d82bc88d42a6343bf"
+      "hash": "680c3131c364ff3bed6e9ca59df7fccb7224f83a"
     },
-    "com.didimo.sdk.oculus": {
-      "version": "https://github.com/didimoinc/didimo-digital-human-unity-sdk.git?path=/com.didimo.sdk.oculus#4.0.0",
-      "depth": 0,
-      "source": "git",
-      "dependencies": {
-        "com.didimo.sdk.core": "4.0.0",
-        "com.unity.netcode.adapter.utp": "1.0.0-pre.6",
-        "com.unity.netcode.gameobjects": "1.0.0-pre.6"
-      },
-      "hash": "aa5938174051785b4b965f7d82bc88d42a6343bf"
-    },
-    "com.unity.burst": {
-      "version": "1.6.4",
-      "depth": 3,
+    "com.unity.cinemachine": {
+      "version": "2.6.11",
+      "depth": 1,
       "source": "registry",
-      "dependencies": {
-        "com.unity.mathematics": "1.2.1"
-      },
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.collections": {
-      "version": "1.1.0",
-      "depth": 2,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.burst": "1.5.4",
-        "com.unity.test-framework": "1.1.29"
-      },
+      "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.editorcoroutines": {
@@ -100,38 +78,8 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.mathematics": {
-      "version": "1.2.5",
-      "depth": 3,
-      "source": "registry",
-      "dependencies": {},
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.netcode.adapter.utp": {
-      "version": "1.0.0-pre.6",
+      "version": "1.1.0",
       "depth": 1,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.netcode.gameobjects": "1.0.0-pre.6",
-        "com.unity.transport": "1.0.0-pre.14"
-      },
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.netcode.gameobjects": {
-      "version": "1.0.0-pre.6",
-      "depth": 1,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.modules.animation": "1.0.0",
-        "com.unity.modules.physics": "1.0.0",
-        "com.unity.modules.physics2d": "1.0.0",
-        "com.unity.nuget.mono-cecil": "1.10.1",
-        "com.unity.collections": "1.1.0"
-      },
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.nuget.mono-cecil": {
-      "version": "1.10.1",
-      "depth": 2,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
@@ -197,17 +145,6 @@
       "source": "registry",
       "dependencies": {
         "com.unity.ugui": "1.0.0"
-      },
-      "url": "https://packages.unity.com"
-    },
-    "com.unity.transport": {
-      "version": "1.0.0-pre.14",
-      "depth": 2,
-      "source": "registry",
-      "dependencies": {
-        "com.unity.collections": "1.1.0",
-        "com.unity.burst": "1.6.4",
-        "com.unity.mathematics": "1.2.5"
       },
       "url": "https://packages.unity.com"
     },
