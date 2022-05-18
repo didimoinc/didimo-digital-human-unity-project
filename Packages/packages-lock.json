@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.didimo.sdk.core": {
-      "version": "https://github.com/didimoinc/didimo-digital-human-unity-sdk.git?path=/com.didimo.sdk.core#4.2.0",
+      "version": "https://github.com/didimoinc/didimo-digital-human-unity-sdk.git?path=/com.didimo.sdk.core#4.2.1",
       "depth": 0,
       "source": "git",
       "dependencies": {
@@ -9,38 +9,39 @@
         "com.unity.render-pipelines.universal": "10.5.0",
         "com.unity.textmeshpro": "3.0.6",
         "com.unity.editorcoroutines": "1.0.0",
-        "com.unity.cinemachine": "2.6.11"
+        "com.unity.cinemachine": "2.6.11",
+        "com.unity.timeline": "1.6.4"
       },
-      "hash": "ba99c41647bd589d4370d5368d59366e7f87670b"
+      "hash": "87ec5d9337fe8be3fbe7dee0e2257fdb793d0bab"
     },
     "com.didimo.sdk.mobile": {
-      "version": "https://github.com/didimoinc/didimo-digital-human-unity-sdk.git?path=/com.didimo.sdk.mobile#4.2.0",
+      "version": "https://github.com/didimoinc/didimo-digital-human-unity-sdk.git?path=/com.didimo.sdk.mobile#4.2.1",
       "depth": 0,
       "source": "git",
       "dependencies": {
-        "com.didimo.sdk.core": "4.2.0"
+        "com.didimo.sdk.core": "4.2.1"
       },
-      "hash": "ba99c41647bd589d4370d5368d59366e7f87670b"
+      "hash": "87ec5d9337fe8be3fbe7dee0e2257fdb793d0bab"
     },
     "com.didimo.sdk.networking": {
-      "version": "https://github.com/didimoinc/didimo-digital-human-unity-sdk.git?path=/com.didimo.sdk.networking#4.2.0",
+      "version": "https://github.com/didimoinc/didimo-digital-human-unity-sdk.git?path=/com.didimo.sdk.networking#4.2.1",
       "depth": 0,
       "source": "git",
       "dependencies": {
-        "com.didimo.sdk.core": "4.2.0"
+        "com.didimo.sdk.core": "4.2.1"
       },
-      "hash": "ba99c41647bd589d4370d5368d59366e7f87670b"
+      "hash": "87ec5d9337fe8be3fbe7dee0e2257fdb793d0bab"
     },
     "com.didimo.sdk.oculus": {
-      "version": "https://github.com/didimoinc/didimo-digital-human-unity-sdk.git?path=/com.didimo.sdk.oculus#4.2.0",
+      "version": "https://github.com/didimoinc/didimo-digital-human-unity-sdk.git?path=/com.didimo.sdk.oculus#4.2.1",
       "depth": 0,
       "source": "git",
       "dependencies": {
-        "com.didimo.sdk.core": "4.2.0",
+        "com.didimo.sdk.core": "4.2.1",
         "com.unity.netcode.adapter.utp": "1.0.0-pre.6",
         "com.unity.netcode.gameobjects": "1.0.0-pre.6"
       },
-      "hash": "ba99c41647bd589d4370d5368d59366e7f87670b"
+      "hash": "87ec5d9337fe8be3fbe7dee0e2257fdb793d0bab"
     },
     "com.unity.burst": {
       "version": "1.6.5",

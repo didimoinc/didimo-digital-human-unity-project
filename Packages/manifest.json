@@ -1,9 +1,9 @@
 {
   "dependencies": {
-    "com.didimo.sdk.core": "https://github.com/didimoinc/didimo-digital-human-unity-sdk.git?path=/com.didimo.sdk.core#4.2.0",
-    "com.didimo.sdk.mobile": "https://github.com/didimoinc/didimo-digital-human-unity-sdk.git?path=/com.didimo.sdk.mobile#4.2.0",
-    "com.didimo.sdk.networking": "https://github.com/didimoinc/didimo-digital-human-unity-sdk.git?path=/com.didimo.sdk.networking#4.2.0",
-    "com.didimo.sdk.oculus": "https://github.com/didimoinc/didimo-digital-human-unity-sdk.git?path=/com.didimo.sdk.oculus#4.2.0",
+    "com.didimo.sdk.core": "https://github.com/didimoinc/didimo-digital-human-unity-sdk.git?path=/com.didimo.sdk.core#4.2.1",
+    "com.didimo.sdk.mobile": "https://github.com/didimoinc/didimo-digital-human-unity-sdk.git?path=/com.didimo.sdk.mobile#4.2.1",
+    "com.didimo.sdk.networking": "https://github.com/didimoinc/didimo-digital-human-unity-sdk.git?path=/com.didimo.sdk.networking#4.2.1",
+    "com.didimo.sdk.oculus": "https://github.com/didimoinc/didimo-digital-human-unity-sdk.git?path=/com.didimo.sdk.oculus#4.2.1",
     "com.unity.ide.rider": "3.0.13",
     "com.unity.ide.visualstudio": "2.0.14",
     "com.unity.ide.vscode": "1.2.5",
