@@ -1,9 +1,18 @@
 {
   "dependencies": {
-    "com.didimo.sdk.core": {
-      "version": "https://github.com/didimoinc/didimo-digital-human-unity-sdk.git?path=/com.didimo.sdk.core#4.3.0",
+    "com.didimo.sdk.assetfitter": {
+      "version": "4.4.8-pre.1",
       "depth": 0,
-      "source": "git",
+      "source": "registry",
+      "dependencies": {
+        "com.didimo.sdk.core": "4.4.8"
+      },
+      "url": "https://package.openupm.com"
+    },
+    "com.didimo.sdk.core": {
+      "version": "4.4.8",
+      "depth": 0,
+      "source": "registry",
       "dependencies": {
         "com.unity.nuget.newtonsoft-json": "2.0.2",
         "com.unity.render-pipelines.universal": "10.5.0",
@@ -12,36 +21,36 @@
         "com.unity.cinemachine": "2.6.11",
         "com.unity.timeline": "1.6.4"
       },
-      "hash": "bd682799f7cd856347c01df596652a51190ad2b0"
+      "url": "https://package.openupm.com"
     },
     "com.didimo.sdk.mobile": {
-      "version": "https://github.com/didimoinc/didimo-digital-human-unity-sdk.git?path=/com.didimo.sdk.mobile#4.3.0",
+      "version": "4.4.8",
       "depth": 0,
-      "source": "git",
+      "source": "registry",
       "dependencies": {
-        "com.didimo.sdk.core": "4.3.0"
+        "com.didimo.sdk.core": "4.4.8"
       },
-      "hash": "bd682799f7cd856347c01df596652a51190ad2b0"
+      "url": "https://package.openupm.com"
     },
     "com.didimo.sdk.networking": {
-      "version": "https://github.com/didimoinc/didimo-digital-human-unity-sdk.git?path=/com.didimo.sdk.networking#4.3.0",
+      "version": "4.4.8",
       "depth": 0,
-      "source": "git",
+      "source": "registry",
       "dependencies": {
-        "com.didimo.sdk.core": "4.3.0"
+        "com.didimo.sdk.core": "4.4.8"
       },
-      "hash": "bd682799f7cd856347c01df596652a51190ad2b0"
+      "url": "https://package.openupm.com"
     },
     "com.didimo.sdk.oculus": {
-      "version": "https://github.com/didimoinc/didimo-digital-human-unity-sdk.git?path=/com.didimo.sdk.oculus#4.3.0",
+      "version": "4.4.8",
       "depth": 0,
-      "source": "git",
+      "source": "registry",
       "dependencies": {
-        "com.didimo.sdk.core": "4.3.0",
+        "com.didimo.sdk.core": "4.4.8",
         "com.unity.netcode.adapter.utp": "1.0.0-pre.6",
         "com.unity.netcode.gameobjects": "1.0.0-pre.6"
       },
-      "hash": "bd682799f7cd856347c01df596652a51190ad2b0"
+      "url": "https://package.openupm.com"
     },
     "com.unity.burst": {
       "version": "1.6.5",
