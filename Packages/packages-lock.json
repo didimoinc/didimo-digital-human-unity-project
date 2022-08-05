@@ -1,16 +1,16 @@
 {
   "dependencies": {
     "com.didimo.sdk.assetfitter": {
-      "version": "4.4.8-pre.1",
+      "version": "4.4.9-pre.1",
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.didimo.sdk.core": "4.4.8"
+        "com.didimo.sdk.core": "4.4.9"
       },
       "url": "https://package.openupm.com"
     },
     "com.didimo.sdk.core": {
-      "version": "4.4.8",
+      "version": "4.4.9",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -24,29 +24,29 @@
       "url": "https://package.openupm.com"
     },
     "com.didimo.sdk.mobile": {
-      "version": "4.4.8",
+      "version": "4.4.9",
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.didimo.sdk.core": "4.4.8"
+        "com.didimo.sdk.core": "4.4.9"
       },
       "url": "https://package.openupm.com"
     },
     "com.didimo.sdk.networking": {
-      "version": "4.4.8",
+      "version": "4.4.9",
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.didimo.sdk.core": "4.4.8"
+        "com.didimo.sdk.core": "4.4.9"
       },
       "url": "https://package.openupm.com"
     },
     "com.didimo.sdk.oculus": {
-      "version": "4.4.8",
+      "version": "4.4.9",
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.didimo.sdk.core": "4.4.8",
+        "com.didimo.sdk.core": "4.4.9",
         "com.unity.netcode.adapter.utp": "1.0.0-pre.6",
         "com.unity.netcode.gameobjects": "1.0.0-pre.6"
       },
