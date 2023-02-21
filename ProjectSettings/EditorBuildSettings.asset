@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Samples/Didimo SDK - Core/4.4.8/Meet A Didimo/MeetADidimo.unity
+    path: Assets/Samples/Didimo SDK - Core/5.1.1/Meet A Didimo/MeetADidimo.unity
     guid: 6953fb2eacb8dbf4a8e8d90ceb7b005b
   m_configObjects: {}
